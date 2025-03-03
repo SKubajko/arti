@@ -65,9 +65,7 @@ Elementy zbioru Y przypisane do elementów zbioru X -> **ZBIÓR WARTOŚCI FUNKCJ
 
 
 | x    | -1  | 0   | 1   | 2   |
-
 | ---- | --- | --- | --- | --- |
-
 | f(x) | 1   | 0   | 1   | 4   |
 
 
@@ -146,15 +144,13 @@ Poniżej wykres funkcji y x= , gdzie x ∈ 〈0, +∞) <-> ten zbiór jest dlate
 
 
 
-1->1, 2->$\sqrt{2}$ , 3->$\sqrt{3}$, 4->2 (2 to $\sqrt{4}$)
+1 to 1, 2 to $\sqrt{2}$ , 3 to $\sqrt{3}$, 4 to 2 (bo $2=\sqrt{4}$)
 
 
 
 # TEMAT 3 Dziedzina funkcji liczbowej
 
-Ważną umiejętnością jest wyznaczanie dziedziny funkcji zarówno na podstawie wy-
-
-kresu funkcji, jak też z jej wzoru (tak pan jezus powiedzial)
+Ważną umiejętnością jest wyznaczanie dziedziny funkcji zarówno na podstawie wykresu funkcji, jak też z jej wzoru (tak pan jezus powiedzial)
 
 
 
@@ -176,19 +172,19 @@ Dziedzina to zbiór wszystkich liczb rzeczywistych (x) dla których możemy obli
 
 A i jeszcze odczytajmy dziedzinę ze wzoru funkcji, to trzymaj dwa pro tipy
 
-1) Pierwiastki stopnia parzystego (czyli pierwiastek drugiego,czwartego,szostego stopnia dla przykladu) można obliczać tylko z liczb nieujemnych (czyli dodatnich albo zera). Jeśli masz pierwiastek stopnia nieparzystego (np $\sqrt[3]{}$ ) to nie dotyczy
+1) Pierwiastki stopnia parzystego (czyli pierwiastek drugiego,czwartego,szostego stopnia dla przykladu) można obliczać tylko z liczb nieujemnych (czyli dodatnich albo zera). Jeśli masz pierwiastek stopnia nieparzystego (np   $\sqrt[3]{}  $ ) to nie dotyczy
 
 2) Mianownik ułamka musi być zawsze liczbą różną od 0 bo przez zero nie podzielisz cholero
 
 
 
-$$f(x) = \frac{x}{\sqrt{x+6}}$$
+  $$f(x) = \frac{x}{\sqrt{x+6}}  $$
 
 
 
-z pro tipa nr 2 wiemy że nie możesz dzielić przez 0, czyli $\sqrt{x+6} \neq 0$ co sprowadza sie do $x+6 \neq 0$ 
+z pro tipa nr 2 wiemy że nie możesz dzielić przez 0, czyli   $\sqrt{x+6} \neq 0$ co sprowadza sie do   $x+6 \neq 0$ 
 
-z protipa nr 1 wiemy że pod pierwiastkiem moze byc 0 lub wiecej a wiec $x+6 \ge 0$
+z protipa nr 1 wiemy że pod pierwiastkiem moze byc 0 lub wiecej a wiec   $x+6 \ge 0$
 
 połącz oba i wychodzi ci że $x+6>0 \rightarrow x>-6$
 
@@ -286,7 +282,7 @@ dzieki cześć leci nastepny temacik
 
 Miejsca zerowe funkcji to takie x gdzie y=0
 
-w sensie ze $f(x)=0$
+w sensie ze   $f(x)=0$
 
 a i pamiętaj że miejsca zerowe na 100% są w dziedzinie funkcji
 
@@ -302,9 +298,9 @@ $f(x) = x^2 – 49$
 
 chcemy znaleźć miejsca zerowe bez wykresu
 
-czyli chcemy żeby $x^2-49=0$
+czyli chcemy żeby   $x^2-49=0$
 
-czyli chcemy żeby $x^2 = 49$
+czyli chcemy żeby   $x^2 = 49$
 
 a co do kwadratu daje 49? tak dokladnie jest to 7
 
@@ -320,15 +316,15 @@ wniosek - mamy dwa miejsca zerowe: x=7 lub x=-7
 
 przykladzik numer DWA
 
-$f(x)=\sqrt{x+5}$
+  $f(x)=\sqrt{x+5}$
 
 a więc dziedzina to bedzie wszystko co pod pierwiastkiem da nam zero lub więcej (pamiętasz pro tipy?)
 
 kolejny pro tip dla ciebie przy okazji: zawsze obliczaj dziedzinę przed liczeniem miejsc zerowych żeby wykluczyć te co są poza dziedziną
 
-w tym przypadku $D_f = 〈–5, +∞)$
+w tym przypadku   $D_f = 〈–5, +∞)$
 
-$0=\sqrt{0}=\sqrt{x+5}=\sqrt{-5+5}\rightarrow x=-5$
+  $0=\sqrt{0}=\sqrt{x+5}=\sqrt{-5+5}\rightarrow x=-5$
 
 
 
@@ -352,21 +348,21 @@ wyjaśnie skrótowo
 
 przykladzik tylko jeden teraz bo mnie juz plecy kurde bolą
 
-zobaczymy czy $f(x)=\frac{x^4+2x^2+1}{x^2+1}$ jest równa $g(x)=x^2+1$
+zobaczymy czy   $f(x)=\frac{x^4+2x^2+1}{x^2+1}$ jest równa $g(x)=x^2+1$
 
-dziedziny takie same bo $x^2+1>0$ bo kwadrat na minusie kurde nie bedzie (nawet jakbys chcial!)
+dziedziny takie same bo   $x^2+1>0$ bo kwadrat na minusie kurde nie bedzie (nawet jakbys chcial!)
 
 przekształcimy sobie wzór f(x) żeby go sprowadzić do jak najprostszej postaci
 
-$f(x)=\frac{x^4+2x^2+1}{x^2+1}$
+  $f(x)=\frac{x^4+2x^2+1}{x^2+1}$
 
-chwila przecież $x^4+2x^2+1$ to wzór skróconego mnożenia tu jest
+chwila przecież   $x^4+2x^2+1$ to wzór skróconego mnożenia tu jest
 
-no to $f(x)=\frac{(x^2+1)^2}{x^2+1}$
+no to   $f(x)=\frac{(x^2+1)^2}{x^2+1}$
 
-a to się sprowadza do $f(x)=x^2+1$
+a to się sprowadza do   $f(x)=x^2+1$
 
-a wzór g(x) to to samo $g(x) = x^2+1$
+a wzór g(x) to to samo   $g(x) = x^2+1$
 
 no to gg te same wzory to funkcje na 100% są równe 
 
@@ -392,15 +388,15 @@ monotoniczność to takie pojecie że funkcja może w jakimś przedziale być ro
 
 funkcja ... w przedziale A: znaczy że masz przedział A będący częścią przedziału X (czyli dziedziny funkcji). w tym przedziale A zachodzi zależność jedna z pięciu które wcześniej wymieniłem. zaraz ci pokaże wszystkie
 
-- rosnąca w przedziale A: bierzesz dwa dowolne elementy tego przedziału. ten mniejszy element ma większą wartość, niż wartość tego większego elementu. nazwijmy te elementy a i b. Czyli $a<b, f(a)<f(b)$
+- rosnąca w przedziale A: bierzesz dwa dowolne elementy tego przedziału. ten mniejszy element ma większą wartość, niż wartość tego większego elementu. nazwijmy te elementy a i b. Czyli   $a<b, f(a)<f(b)$
 
-- malejąca w przedziale A: $a<b, f(a)>f(b)$ czyli na wykresie lecimy w dóóóół jak wartość rubla w rosji...
+- malejąca w przedziale A:   $a<b, f(a)>f(b)$ czyli na wykresie lecimy w dóóóół jak wartość rubla w rosji...
 
-- stała w przedziale A: $a<b, f(a)=f(b)$ czyli masz na wykresie prostą krechę w tym przedziale nic sie nie zmienia
+- stała w przedziale A:   $a<b, f(a)=f(b)$ czyli masz na wykresie prostą krechę w tym przedziale nic sie nie zmienia
 
-- nierosnąca: połączenie malejącej i stałej - czyli $a<b, f(a)\ge f(b)$
+- nierosnąca: połączenie malejącej i stałej - czyli   $a<b, f(a)\ge f(b)$
 
-- niemalejąca: połączenie rosnącej i stałej - czyli $a<b,f(a) \le f(b)$
+- niemalejąca: połączenie rosnącej i stałej - czyli   $a<b,f(a) \le f(b)$
 
 
 
@@ -438,7 +434,7 @@ proste nie?
 
 
 
-ta nie jest różnowartościowa, bo zobacz na prostą $k$. Przecina wykres w aż 3 punktach!!! Wniosek funkcja nie jest różnowartościowa bo wartość y=1 jest dla aż 3 x-sów {-4, -1, 5}
+ta nie jest różnowartościowa, bo zobacz na prostą   $k  $. Przecina wykres w aż 3 punktach!!! Wniosek funkcja nie jest różnowartościowa bo wartość y=1 jest dla aż 3 x-sów {-4, -1, 5}
 
 
 
@@ -450,7 +446,7 @@ ta jest różnowartościowa - nic się nie powtarza funkcja jest malejąca (jak 
 
 
 
-jeśli widzisz wzór funkcji, zastanów się, czy może się coś powtórzyć. jeśli dla przykładu masz $x^2$, to jesteś w czarnej dupie bo minusowe do kwadratu to plusowe, i wtedy nie jest różnowartościowa
+jeśli widzisz wzór funkcji, zastanów się, czy może się coś powtórzyć. jeśli dla przykładu masz   $x^2$, to jesteś w czarnej dupie bo minusowe do kwadratu to plusowe, i wtedy nie jest różnowartościowa
 
 
 
@@ -458,11 +454,11 @@ dzieki za uwage rób zadania
 
 # TEMAT 9 Funkcje parzyste i funkcje nieparzyste
 
-tego sam kiedyś nie rozumiałem więc postaram się wyjaśnić możliwie jak najlepiej jak mogę
+tego sam kiedyś nie rozumiałem więc postaram się wyjaśnić możliwie najprościej jak mogę
 
 
 
-jeśli $f(x)=f(-x)$ i -x też jest w dziedzinie, i jest to prawdziwe dla każdego możliwego x, to znaczy, że funkcja jest **parzysta**. 
+jeśli   $f(x)=f(-x)$ i -x też jest w dziedzinie, i jest to prawdziwe dla każdego możliwego x, to znaczy, że funkcja jest **parzysta**. 
 
 Prosty sposób na sprawdzenie tego to popatrzenie na wykres i zobaczenie czy jest symetryczna wobec osi OY (czyli osi x=0)
 
@@ -480,11 +476,11 @@ no i sigma
 
 
 
-jeśli $f(-x) = -f(x)$ i -x też jest w dziedzinie to znaczy że funkcja jest **nieparzysta**.
+jeśli   $f(-x) = -f(x)$ i -x też jest w dziedzinie to znaczy że funkcja jest **nieparzysta**.
 
 
 
-przy okazji, jeśli jest nieparzysta to $f(0)=0$. **zawsze.**
+przy okazji, jeśli jest nieparzysta to   $f(0)=0$. **zawsze.**
 
 
 
@@ -603,6 +599,8 @@ tego typu zadanka
 palce mnie bolą nogi mnie bolą plecy mnie bolą dupa mnie boli
 
 wiec mam nadzieje ze sie przyda
+
+bo zajelo mi to 3h
 
 licze ze zdasz sigma
 
