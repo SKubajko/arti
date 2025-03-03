@@ -25,7 +25,7 @@ Elementy zbioru Y przypisane do elementów zbioru X -> **ZBIÓR WARTOŚCI FUNKCJ
 
 ## Przykłady dla funkcji f(x) = x<sup>2</sup>, x ∈ {–1, 0, 1, 2}
 ### Graf
-![[1.png]]
+![](1.png)
 ### Opis słowny
 "Funkcja f każdej liczbie ze zbioru {–1, 0, 1, 2} przyporządkowuje jej kwadrat."
 
@@ -39,7 +39,7 @@ Elementy zbioru Y przypisane do elementów zbioru X -> **ZBIÓR WARTOŚCI FUNKCJ
 {(–1, 1), (0, 0), (1, 1), (2, 4)}
 
 ### Wykres
-![[2.png]]
+![](2.png)
 
 ### Wzór
 w podreczniku są podane 3 sposoby
@@ -51,25 +51,25 @@ y = x<sup>2</sup>, jeśli x ∈ {–1, 0, 1, 2}
 Wykres funkcji w skrócie: w poziomie masz x, w pionie y. 
 
 Poniżej to **NIE SĄ** wykresy funkcji.
-![[3.png]]
+![](3.png)
 Dlaczego? Bo funkcja dla każdego elementu w zbiorze X przyjmuje **TYLKO JEDEN** element ze zbioru Y, a tu tak nie jest
 
 Poniżej to **SĄ** wykresy funkcji.
-![[4.png]]
+![](4.png)
 Dlaczego? Bo dla każdego punktu w X jest max 1 element w zbiorze Y (czasem 0) bla bla bla komu to potrzebne 😭
 
 Poniżej wykres funkcji y = x, gdzie x ∈ ***R***
-![[5.png]]
+![](5.png)
 Dla każdego punktu na osi OX przypisany jest punkt z osi OY o tej samej liczbie (1->1, 2->2 itp itd)
 
 Poniżej wykres funkcji y x= , gdzie x ∈ 〈0, +∞) <-> ten zbiór jest dlatego, że z ujemnej liczby pierwiastka nie zrobisz
-![[6.png]]
+![](6.png)
 1->1, 2->$\sqrt{2}$ , 3->$\sqrt{3}$, 4->2 (2 to $\sqrt{4}$)
 
 # TEMAT 3 Dziedzina funkcji liczbowej
 Ważną umiejętnością jest wyznaczanie dziedziny funkcji zarówno na podstawie wy-
 kresu funkcji, jak też z jej wzoru (tak pan jezus powiedzial)
-![[7.png]]
+![](7.png)
 Tu z wykresu odczytujemy, że funkcja "zaczyna się" przy x=-3 (pełna kropka = włączając w to 3) a kończy na x=6 (pusta kropka = dąży do 6, ale wyłączając 6)
 Czyli dziedzina D f = 〈–3, 6)
 
@@ -107,7 +107,7 @@ ZW<sub>coś</sub> oznaczamy zbiór wartości funkcji
 czasami zbiór wartości jest nieskończony np jak masz funkcje y=x to masz nieskonczoność x-sów i nieskonczoność y-ków
 
 oooooo tu masz łatwy przykład z wykresikiem
-![[8.png]]
+![](8.png)
 zbiór wartości zaczyna się w najniższym punkcie wykresu (najmniejszy y) w tym przypadku jest to -2 ale uwaga, kropka pusta w srodku, czyli dąży do -2 ale wyłączamy -2
 jezeli jeszcze arti nie wiesz to to jest przedział niedomknięty tak zwany
 zbiór wartości się kończy u góry tam po lewej na 5
@@ -204,10 +204,10 @@ funkcja różnowartościowa to taka że y sie nie powtarza w sensie że weźmies
 oczywiste więc że funkcja różnowartościowa jest albo rosnąca albo malejąca
 proste nie?
 
-![[9.png]]
+![](9.png)
 ta nie jest różnowartościowa, bo zobacz na prostą $k$. Przecina wykres w aż 3 punktach!!! Wniosek funkcja nie jest różnowartościowa bo wartość y=1 jest dla aż 3 x-sów {-4, -1, 5}
 
-![[10.png]]
+![](10.png)
 ta jest różnowartościowa - nic się nie powtarza funkcja jest malejąca (jak średnie zarobki w polsce) wszystko git ładnie
 
 jeśli widzisz wzór funkcji, zastanów się, czy może się coś powtórzyć. jeśli dla przykładu masz $x^2$, to jesteś w czarnej dupie bo minusowe do kwadratu to plusowe, i wtedy nie jest różnowartościowa
@@ -218,7 +218,7 @@ tego sam kiedyś nie rozumiałem więc postaram się wyjaśnić możliwie jak na
 
 jeśli $f(x)=f(-x)$ i -x też jest w dziedzinie, i jest to prawdziwe dla każdego możliwego x, to znaczy, że funkcja jest **parzysta**. 
 Prosty sposób na sprawdzenie tego to popatrzenie na wykres i zobaczenie czy jest symetryczna wobec osi OY (czyli osi x=0)
-![[11.png]]
+![](11.png)
 tu 2 przykłady
 
 no i sigma
@@ -228,7 +228,7 @@ jeśli $f(-x) = -f(x)$ i -x też jest w dziedzinie to znaczy że funkcja jest **
 przy okazji, jeśli jest nieparzysta to $f(0)=0$. **zawsze.**
 
 Prosty sposób blablabla na wykresie symetryczna wobec punktu na środku
-![[12.png]]
+![](12.png)
 tu dwa przyklady
 czaisz? to sigma lecimy z nastepnym tematem
 jak chcesz to zrób jakies zadanka jak nie to nie
@@ -261,13 +261,13 @@ i tak wyjaśnie
 
 ból w plecach jest już nie do zniesienia. minęły już ponad 2 godziny. ponad dwa tysiące słów. ALE CZEGO SIE NIE ROBI DLA ARTIEGO, LECIMY DALEJ RAHHHHH
 
-tu przykładzik z porostami i stężeniem SO<sub>2</sub> w powietrzu![[13.png]]
+tu przykładzik z porostami i stężeniem SO<sub>2</sub> w powietrzu![](13.png)
 no i co widzisz? widzisz że przy 50 μg/m<sup>3</sup> już brakuje jednego gatunku porostów.
 takie zadanka bedziesz mial po prostu analizujesz wykres
 
 
 tu kolejne zadanko. pan fizyk jedzie se skuterem 120 km potem sie przesiada na auto i tez 120 km. wykres zaleznosci drogi od czasu
-![[14.png]]
+![](14.png)
 przykładowe pytania:
 1. z jaką prędkością jechał skuterem
 2. z jaką prędkością jechał autem
