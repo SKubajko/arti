@@ -2,7 +2,7 @@
 
 w tym repo jest notatka z matmy z funkcji (matma liceum klasa 1) stworzona specjalnie dla mojego jakze kochanego przyjaciela artiego
 
-niektóre obrazki NIE SĄ MOJE, autorzy zastrzegają sobie prawa do nich
+obrazki NIE SĄ MOJE, autorzy zastrzegają sobie prawa do nich
 
 notatka w wiekszosci pisana, część kopiowana z podrecznika, więc po prostu załóżmy że twórcy tego podrecznika zastrzegają sobie prawa do całej tej notatki (błagam nie chce do sądu)
 
