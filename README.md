@@ -172,7 +172,7 @@ Dziedzina to zbiór wszystkich liczb rzeczywistych (x) dla których możemy obli
 
 A i jeszcze odczytajmy dziedzinę ze wzoru funkcji, to trzymaj dwa pro tipy
 
-1) Pierwiastki stopnia parzystego (czyli pierwiastek drugiego,czwartego,szostego stopnia dla przykladu) można obliczać tylko z liczb nieujemnych (czyli dodatnich albo zera). Jeśli masz pierwiastek stopnia nieparzystego (np   $\sqrt[3]{}  $ ) to nie dotyczy
+1) Pierwiastki stopnia parzystego (czyli pierwiastek drugiego,czwartego,szostego stopnia dla przykladu) można obliczać tylko z liczb nieujemnych (czyli dodatnich albo zera). Jeśli masz pierwiastek stopnia nieparzystego (np   $\sqrt[3]{-8}$ ) to nie dotyczy
 
 2) Mianownik ułamka musi być zawsze liczbą różną od 0 bo przez zero nie podzielisz cholero
 
